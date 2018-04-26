@@ -1,31 +1,31 @@
 # Viridis_E-commerce_Selenium_Aut
 
 #Resumo
-Projeto de demostração de automação de teste encima de um e-commerce.
-*Link:http://automationpractice.com/index.php
+#Projeto de demostração de automação de teste encima de um e-commerce.
+#*Link:http://automationpractice.com/index.php
 
-Utilizando as seguinte ferramentas,
-*Selenium
-*Serenity
-*Maven
-*Junit
-*ChromeDriver 2.37 [Supports Chrome v64-66]
+#Utilizando as seguinte ferramentas,
+#*Selenium
+#*Serenity
+#*Maven
+#*Junit
+#*ChromeDriver 2.37 [Supports Chrome v64-66]
 
 
 #Modo de instalação
-1º Baixe o repositorio no projeto no GitHub
-2º Utilize a IDE Eclipse com o JDK 7 ou superior;
-3º No Eclipse vai no 
-  3.1 Menu "File"
-  3.2 Opção "Import"
-  3.3 Pesquise no campo "Maven"
-  3.4 Acione  "Existing Maven Projects"
-  3.5 [Next]
-  3.6 No Root Directory informa o local onde se encontra o "Viridis_E-commerce_Selenium_Aut"
-  3.7 Depois reconhece o pom.xml 
-  3.8 Finish
-4º Finalizando a importação do projeto
-	4.1 Menu "Run"
+#1º Baixe o repositorio no projeto no GitHub
+#2º Utilize a IDE Eclipse com o JDK 7 ou superior;
+#3º No Eclipse vai no 
+#  3.1 Menu "File"
+#  3.2 Opção "Import"
+#  3.3 Pesquise no campo "Maven"
+#  3.4 Acione  "Existing Maven Projects"
+#  3.5 [Next]
+#  3.6 No Root Directory informa o local onde se encontra o "Viridis_E-commerce_Selenium_Aut"
+#  3.7 Depois reconhece o pom.xml 
+#  3.8 Finish
+#4º Finalizando a importação do projeto
+	4.1 Menu "Run"#
 	4.2 Opção "Run Configurations"
 	4.3 Encontre opção "Maven Build" / Botão direito e click "New"
 	4.4 Base directoy: "informa o repositorio do projeto"
